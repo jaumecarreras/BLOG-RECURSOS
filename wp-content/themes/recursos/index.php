@@ -6,7 +6,7 @@
 </head>
 	<h1>
 	<?php bloginfo(name) ?>
-    
+    <?php bloginfo(description) ?>
 	</h1>
 <body>
 </body>
